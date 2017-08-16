@@ -1,7 +1,7 @@
 {
-    "title": "DAUX.IO",
-    "tagline": "The Easiest Way To Document Your Project",
-    "author": "Justin Walsh",
+    "title": "LI Lbrary",
+    "tagline": "Add Promotion to Your Project",
+    "author": "Fenil Jain",
     "image": "app.png",
     "ignore": {
             "files": ["Work_In_Progress.md"],
@@ -19,15 +19,15 @@
         "float": true,
         "inherit_index": true,
 
-        "repo": "justinwalsh/daux.io",
-        "edit_on_github": "justinwalsh/daux.io/blob/master/docs",
-        "twitter": ["justin_walsh", "todaymade"],
+        "repo": "Fenil15/LILibraryDocs",
+        "edit_on_github": "Fenil15/LILibraryDocs/blob/master/docs",
+        "twitter": ["fenil_15"],
         "google_analytics": "UA-12653604-10",
         "links": {
-            "Download": "https://github.com/justinwalsh/daux.io/archive/master.zip",
-            "GitHub Repo": "https://github.com/justinwalsh/daux.io",
-            "Help/Support/Bugs": "https://github.com/justinwalsh/daux.io/issues",
-            "Made by Todaymade": "http://todaymade.com"
+            "Download": "https://github.com/Fenil15/LILibraryDocs/archive/master.zip",
+            "GitHub Repo": "https://github.com/Fenil15/LILibraryDocs",
+            "Help/Support/Bugs": "https://github.com/Fenil15/LILibraryDocs/issues",
+            "Made by LitmusWorld": "http://litmusworld.com"
         }
     }
 }
